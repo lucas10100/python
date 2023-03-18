@@ -21,6 +21,7 @@ pyautogui.press(['tab'])
 pyautogui.click(x=962, y=688) #anexo
 pyautogui.press(['enter'])
 pyautogui.click(x=93, y=123) #area de trabalho 
+gmail
 pyautogui.press(['enter'])
 pyautogui.click(x=269, y=162)
 pyautogui.press(['enter'])
