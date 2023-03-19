@@ -32,3 +32,5 @@ pyautogui.press(['enter'])
 pyautogui.click(x=835, y=695)
 pyautogui.press(['enter'])
 #pyautogui.click(x=754, y=164)
+
+
